@@ -1,0 +1,23 @@
+{
+  "name": "lighthousenodemodule",
+  "version": "1.0.0",
+  "description": "Uso de lighthouse con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antopfs/lighthouseNodeModule.git"
+  },
+  "author": "Antonio Perdomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antopfs/lighthouseNodeModule/issues"
+  },
+  "homepage": "https://github.com/antopfs/lighthouseNodeModule#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "lighthouse": "^9.6.7"
+  }
+}
